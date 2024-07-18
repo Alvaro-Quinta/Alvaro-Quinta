@@ -9,3 +9,5 @@ Let's connect, seeing our potential to make something truly remarkable!
 
 ## Skills
 - Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
+- Good team-work
+- Make contacts in a easier way when I'm in a face-to-face project
