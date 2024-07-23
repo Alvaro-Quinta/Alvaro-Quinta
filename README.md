@@ -6,3 +6,7 @@ Hello! I'm a passionate Quality Assurance Tester with a keen focus on Java and C
 As I continue my study in Q.A.T, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally, making partners with several skills, knowledges and persepectives. Here's my email for anyone: alvaro2808.koker@gmail.com
 
 Let's connect, seeing our potential to make something truly remarkable!
+
+## Languages
+* English B1 Starter
+* Spanish (Native)
