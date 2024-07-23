@@ -15,3 +15,8 @@ Let's connect, seeing our potential to make something truly remarkable!
 - Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
 
 ❗***Esta actividad es sólo un ejemplo ya que no se recomienda fusionar ramas sin pasar por una orden de fusión ni revisión.***
+
+## Hobbies
+- Dancing .......🕺
+- Table Tenis ...🏓
+- Football ......⚽
