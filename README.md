@@ -16,7 +16,13 @@ Let's connect, seeing our potential to make something truly remarkable!
 
 ❗***Esta actividad es sólo un ejemplo ya que no se recomienda fusionar ramas sin pasar por una orden de fusión ni revisión.***
 
+## Skills
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
+- Good team-work
+- Make contacts in a easier way when I'm in a face-to-face project
+
 ## Hobbies
 - Dancing .......🕺
 - Table Tenis ...🏓
 - Football ......⚽
+
