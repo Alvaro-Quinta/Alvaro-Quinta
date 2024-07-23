@@ -8,6 +8,6 @@ As I continue my study in Q.A.T, I am always on the lookout for collaborative pr
 Let's connect, seeing our potential to make something truly remarkable!
 
 ## Hobbies
-- Dancing: ...
-- Table Tenis ...
-- Football
+- Dancing .......🕺
+- Table Tenis ...🏓
+- Football ......⚽
