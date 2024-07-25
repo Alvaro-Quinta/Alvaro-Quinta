@@ -26,3 +26,6 @@ Let's connect, seeing our potential to make something truly remarkable!
 - Table Tenis ...🏓
 - Football ......⚽
 
+## Languages
+* English B1 Starter
+* Spanish (Native)
