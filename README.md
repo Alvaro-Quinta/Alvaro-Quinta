@@ -7,6 +7,25 @@ As I continue my study in Q.A.T, I am always on the lookout for collaborative pr
 
 Let's connect, seeing our potential to make something truly remarkable!
 
+## Technologies
+- HTML
+- CSS
+- Java Script
+- Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development............... _Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum_
+- Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
+
+❗***Esta actividad es sólo un ejemplo ya que no se recomienda fusionar ramas sin pasar por una orden de fusión ni revisión.***
+
+## Skills
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
+- Good team-work
+- Make contacts in a easier way when I'm in a face-to-face project
+
+## Hobbies
+- Dancing .......🕺
+- Table Tenis ...🏓
+- Football ......⚽
+
 ## Languages
 * English B1 Starter
 * Spanish (Native)
